@@ -27,3 +27,69 @@ Course structure:
   1. Part 3: Data Preparation
   1. Part 4: Communication
 
+## Section 2 - What is Data Science?
+
+### Lecture 2 - Intro (what you will learn in this section)
+
+You will learn what DS is and how to use this course
+
+### Lecture 3 - Profession of the future
+
+DS is related to amount of data people are generating and which need to be processed
+
+Up to 2005 humans created __130 exabytes of data__ - what does it mean?
+
+  * 1 byte - letter A
+  * 1 kilobyte - half of a page ~ 1000 letters
+  * 1 megabyte - 500 pages book
+  * 1 gigabyte - thousand books
+      * 1 gigabyte is able to store whole human genome
+  * 1 terabyte - hd movie of ~70 years length (implying compression)
+      * so we could record one persons entire life, and it would take 1 terabyte of storage
+  * 1 petabyte - amazon rain forrest (1.4 billion acres of 500 trees per acre) cut down, chopped, turned into paper and then into letters; text stored on those letters would take between 1 and 2 petabytes
+  * 1 exabyte - 1000 petabytes
+  
+Up to 2010 humans created __1200__ exabytes of data
+
+Up to 2015 - __7,900__ exabytes of data
+
+Expected up to 2020 - __40,900__ exabytes of data
+
+Processing capabilities of machines and Data Scientists programming them is much less than required to process all the data produced by modern society, that's why demand and market for new Data Scientist will grow - (my comment: this thesis lacks argumentation and proof, but OK, I can agree to that at this point)
+
+### Lecture 4 - Areas of Data Science
+
+Data Science is intersector of three domains:
+
+  - Computer Science
+  - Math and statistics
+  - Domain knowledge
+  
+Thus leads us to old saying: "Data Scientist knows statistics better than any other software engineer and knows more about software engineering than any other statistician" - which is already a little bit outdated
+  
+Modern DS elements:
+
+  - Statistics
+      - separating actual data from random noise
+      - population segmentation models
+      - forecasting
+  - "Teaching computer how to learn" - very important and profficient yet highly skill-demanding domain of Data Science
+    - Pattern recognition
+    - Machine Learning
+    - Neurocomputing
+  - Visualisatin
+      - ability to read visual data
+      - ability to show data
+  - Data Mining
+      - creative part of Data Science - looking for trends and facts that have never yet been noticed
+  - Databases and Data Process (ETL process and beyond)
+      - cleaning data
+      - data storage
+      - data manipulation 
+  - Communication
+      - not all data is in the computers, successful Data Scientist has to know how to work with people and get information from them in an outgoing way (no matter how smart you are)
+  - Presentation
+      - ability to "put data"" into heads of listeners and keep them focused on your presentation - it's very important skill, no matter how much business insights you provide; if you can't effectivelly communicate them to decisions makers, they are worthless
+  - Domain Knowledge
+      - Data Science is highly adaptable set of skills, Data Scientist can seamlessly transfer between difrent business industries
+  
