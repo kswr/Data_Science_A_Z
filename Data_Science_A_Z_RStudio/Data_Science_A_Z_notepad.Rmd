@@ -1,0 +1,29 @@
+---
+title: "Data Science A-Z™"
+output: html_notebook
+---
+
+[course Dashboard](https://www.udemy.com/datascience/learn/v4/overview)
+
+# Part 0 - Introduction
+
+## Section 1 - Get Excited
+
+### Lecture 1 - Welcome to Data Science A-Z™
+
+Author has about 5 years of experience with data science
+
+Course structure:
+
+  1. Part 0: Introduction (_current part_)
+    1. Section 1 - Get Excited Welcome to Data Scince (_current section_)
+    1. Section 2 - What is Data Science?
+        * extended introduction to the course
+        * knowledge on possible career paths
+        * why DS is profession of the future
+        * course pathways
+  1. Part 1: Visualisation
+  1. Part 2: Modelling
+  1. Part 3: Data Preparation
+  1. Part 4: Communication
+

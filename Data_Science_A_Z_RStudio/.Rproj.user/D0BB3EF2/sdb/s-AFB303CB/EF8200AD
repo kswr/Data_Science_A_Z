@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Data Science A-Z™\"\noutput: html_notebook\n---\n\n[course Dashboard](https://www.udemy.com/datascience/learn/v4/overview)\n\n# Part 0 - Introduction\n\n## Section 1 - Get Excited\n\n### Lecture 1 - Welcome to Data Science A-Z™\n\nAuthor has about 5 years of experience with data science\n\nCourse structure:\n\n  1. Part 0: Introduction (_current part_)\n    1. Section 1 - Get Excited Welcome to Data Scince (_current section_)\n    1. Section 2 - What is Data Science?\n        * extended introduction to the course\n        * knowledge on possible career paths\n        * why DS is profession of the future\n        * course pathways\n  1. Part 1: Visualisation\n  1. Part 2: Modelling\n  1. Part 3: Data Preparation\n  1. Part 4: Communication\n\n",
+    "created" : 1499375714599.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1712617880",
+    "id" : "EF8200AD",
+    "lastKnownWriteTime" : 1499379422,
+    "last_content_update" : 1499379422061,
+    "path" : "C:/Users/kswr/ws/data_science/courses/Data_Science_A_Z/Data_Science_A_Z_RStudio/Data_Science_A_Z_notepad.Rmd",
+    "project_path" : "Data_Science_A_Z_notepad.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
